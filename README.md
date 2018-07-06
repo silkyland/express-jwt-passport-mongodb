@@ -11,7 +11,7 @@ Just another express jwt passport and mongodb boilerplate project
 
 ### Run this project
 ```bash
-   yarn install
+   yarn
 ```
 ```bash
    yarn start
